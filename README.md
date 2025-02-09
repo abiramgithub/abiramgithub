@@ -1,7 +1,8 @@
 hii friends,
 this is Abiram
 im a Cyber Security Enthusiastic,
-learning Ethical hacking And Penetration testing and Web Development
+I'm currently upgrading my self as a soc analyst 
+I'm very passionate about my job 
 thanks For visiting me ! See you Again ...
 
 
